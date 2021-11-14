@@ -1,0 +1,58 @@
+[
+ 
+    {
+        "_id": "6168306f3f4ea527f4b737f0",
+        "id": 1,
+        "picture": "https://i.postimg.cc/SJ3Ymwfd/service1.jpg",
+        "name": "Doctor Care",
+        "category": "breakfast",
+        "description": "As we generally wants to take care you and your health to keep it fitter and finest, we are introducing this service to you. In low cost you will be deliver you best service",
+        "price": "$200"
+    },
+    {
+        "_id": "616859e92b3f4fbd3c0be99d",
+        "id": 2,
+        "picture": "https://i.postimg.cc/5HqXqjdK/service2.jpg",
+        "name": "Nurse Care",
+        "category": "dinner",
+        "description": "Hello, Frost Faulkner! You have 7 unread messages.",
+        "price": "$60"
+    },
+    {
+        "_id": "6168306fa5efcedee12def82",
+        "id": 3,
+        "picture": "https://i.postimg.cc/CR8B5mvg/service3.jpg",
+        "name": "Speech Therapy",
+        "category": "breakfast",
+        "description": "Hello, Frost Faulkner! You have 7 unread messages.",
+        "price": "$100"
+    },
+    {
+        "_id": "616859e9060b3ad21a05a459",
+        "id": 4,
+        "picture": "https://i.postimg.cc/9DHX8VB6/service4.jpg",
+        "name": "Physical Therapy",
+        "category": "150",
+        "description": "Hello, Frost Faulkner! You have 7 unread messages.",
+        "price": "$150"
+    },
+    {
+        "_id": "6168306fb2eeba72ca44d978",
+        "id": 5,
+        "picture": "https://i.postimg.cc/62ppr0hT/service5.jpg",
+        "name": "24/7 Ambulance service",
+        "category": "breakfast",
+        "description": "Hello, Frost Faulkner! You have 7 unread messages.",
+        "price": "$30"
+    },
+    {
+        "_id": "6168306f1a1de958ad06aec3",
+        "id": 6,
+        "picture": "https://i.postimg.cc/v47YCjqc/service6.jpg",
+        "name": "Mental counseling",
+        "category": "breakfast",
+        "description": "Hello, Frost Faulkner! You have 7 unread messages.",
+        "price": "$70"
+    }
+   
+]

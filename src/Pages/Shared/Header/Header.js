@@ -18,6 +18,7 @@ const Header = () => {
                         <Nav.Link href="#services">Services</Nav.Link>
                         <Link to="/allproducts" style={{textDecoration:'none', color:'grey', marginTop:'8px'}}>All Products</Link>
                         <Nav.Link href="#teams">Team</Nav.Link>
+                        <Nav.Link href="/register">Register</Nav.Link>
                         {user?.email ?
                             <Link to="/"><Button onClick={logOut}>Logout</Button></Link> :
                             <Nav.Link to="/" as={Link} to="/login">Login</Nav.Link>}
